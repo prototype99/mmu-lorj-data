@@ -306,7 +306,7 @@ Abbreviations
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="2">
+<lyxtabular version="3" rows="2" columns="2">
 <features islongtable="true" longtabularalignment="center">
 <column alignment="left" valignment="top">
 <column alignment="left" valignment="top" width="0pt">
@@ -325,6 +325,26 @@ I
 
 \begin_layout Plain Layout
 The author
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+TFL
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Transport For London
 \end_layout
 
 \end_inset
@@ -382,35 +402,19 @@ literal "false"
 Introduction
 \end_layout
 
-\begin_layout Section
-Course specific learning outcomes
-\end_layout
-
 \begin_layout Standard
-[insert bulletpoints]
-\end_layout
-
-\begin_layout Section
-Hypothesis
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes bld
-\end_inset
-
-
-\begin_inset Quotes bld
-\end_inset
-
-In 2014, people ride for longer in Autumn than in Spring
-\begin_inset Quotes brd
-\end_inset
-
-
-\begin_inset Quotes brd
-\end_inset
-
-
+Cycles have always been a popular mode of transport; due to their beneficial
+ effects upon key issues such as environmental and medical health, there
+ has been increased interest in identifying areas where cycling use could
+ be increased.
+ I hypothesise that in 2014, people ride for longer in autumn than in spring.
+ This can be determined by seeing whether autumn has a larger number of
+ long rides.
+ In order to test this hypothesis, I will need data for cycle use in autumn
+ (September, October and November) and spring (March, April and May), in
+ 2014.
+ To satisfy this requirement, I will use the TFL cycle hire usage in London
+ during 2014 dataset.
 \end_layout
 
 \begin_layout Section
